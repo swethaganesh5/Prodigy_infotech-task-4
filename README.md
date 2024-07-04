@@ -24,10 +24,9 @@ Please note that keyloggers should only be used for ethical purposes, such as pe
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/yourusername/simple-keylogger.git
+   
     cd simple-keylogger
-    ```
+    
 
 2. Install the `pynput` library:
 
